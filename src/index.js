@@ -5,7 +5,7 @@ import "./styles.css";
 
 document.getElementById("board").innerHTML = ``;
 
-//functions for the game
+//variables for the game
 var count = 0;
 var clockCounter = 0;
 var timeout;
